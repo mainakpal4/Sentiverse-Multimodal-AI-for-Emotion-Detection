@@ -6,5 +6,5 @@ This is the backend for **SENTIVERSE**, a full-stack sentiment analysis platform
 - ✅ Voice-based analysis via Whisper
 - ✅ Camera-based facial emotion recognition via DeepFace
 
----
+
 
